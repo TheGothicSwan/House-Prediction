@@ -1,7 +1,5 @@
 # House Price Prediction Project
 
-This project involves predicting house prices based on various features such as house size, number of bedrooms, number of bathrooms, and more. The analysis focuses on data preprocessing, exploratory data analysis (EDA), and the development of a regression model to predict house prices.
-
 ## Project Structure
 - **Data Cleaning and Preprocessing**:
   - Removed or capped outliers in the dataset (e.g., house size and price columns).
